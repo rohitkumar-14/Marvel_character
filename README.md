@@ -1,8 +1,15 @@
-# React + Vite
+# Marvel characters Website
+Welcome to the Marvel characters Website! This project is a web-based application built using React and CSS. The application allows users to see marvel characters and a search bar that allows users to filter the displayed characters based on the character's name.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Installation
+To get started with the project, clone the repository and install the necessary dependencies.
 
-Currently, two official plugins are available:
+git clone https://github.com/rohitkumar-14/Marvel_character
+cd Marvel_character
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Usage
+To run the application locally, use the following command:
+
+npm run dev
+Open http://localhost:5173 to view it in the browser.
