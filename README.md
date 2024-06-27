@@ -13,3 +13,6 @@ To run the application locally, use the following command:
 
 npm run dev
 Open http://localhost:5173 to view it in the browser.
+
+# Website Image
+![Screenshot (342)](https://github.com/rohitkumar-14/Marvel_character/assets/97233950/1e0c6b80-0323-40f6-9205-38dde2ec88dc)
