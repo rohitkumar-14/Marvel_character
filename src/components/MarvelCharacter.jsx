@@ -4,8 +4,8 @@ import { useEffect } from "react";
 import { useState } from "react";
 
 const MARVEL_API_URL = "https://gateway.marvel.com:443/v1/public/characters";
-const PUBLIC_KEY = "52e5c31ae971601497731678700d9fb0";
-const PRIVATE_KEY = "35081f2c677f875efd433433d6d81c5d5f20a6f7";
+const PUBLIC_KEY = "yourpublickey";
+const PRIVATE_KEY = "yourprivatekey";
 
 const MarvelCharacter = ({ theme, toggleTheme }) => {
   const [data, setData] = useState([]);
